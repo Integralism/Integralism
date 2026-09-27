@@ -7,12 +7,11 @@
 <p align="left">
   <a href="mailto:pouyasahebi@outlook.com"><img src="https://img.shields.io/badge/Email-pouyasahebi%40outlook.com-blue?style=flat-square&logo=microsoftoutlook" alt="Email"></a>
   <a href="https://linkedin.com/in/pouyasahebi"><img src="https://img.shields.io/badge/LinkedIn-Pouya_Sahebi-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/Integralism"><img src="https://img.shields.io/badge/GitHub-Integralism-181717?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
 
 ---
 
-### 🔬 Overview & Research Focus
+### Overview & Research Focus
 
 I focus on real-time spatial intelligence, sensor fusion, and embedded neural acceleration for resource-constrained platforms. My background spans:
 
