@@ -15,12 +15,6 @@
 
 Specializing in real-time spatial intelligence, sensor fusion, and embedded neural acceleration for resource-constrained robotic systems.
 
-- **State Estimation & Odometry**: Real-time Visual-Inertial Odometry (VIO) algorithms and multi-sensor fusion (IMU, visual streams, UWB).
-- **Dense Visual Perception**: Deep architectures for boundary-aware segmentation and attention-guided feature extraction.
-- **Edge AI Deployment**: Neural network quantization, ONNX graph optimization, and TensorRT runtime execution on NVIDIA Jetson embedded hardware.
-
----
-
 ### Technical Competencies
 
 #### Programming & Acceleration
